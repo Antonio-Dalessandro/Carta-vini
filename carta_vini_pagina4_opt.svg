@@ -209,7 +209,7 @@ K2pCD02R+/8AURP1fSbdhsQAAAAASUVORK5CYII="/>
 <path transform="matrix(1,0,0,-1,0,595.276)" d="M18.599 118.262H43.128V155.015H18.599Z"/>
 </clipPath>
 <mask id="mask_25">
-<g transform="matrix(.2381542,0,0,.23865745,18.599366,440.26087)">
+<g transform="matrix(.2381542,0,0,.23865745,18.598999,440.26087)">
 <image id="image_26" width="103" height="154" xlink:href="data:image/png;base64,
 iVBORw0KGgoAAAANSUhEUgAAAGcAAACaCAAAAACRJgniAAAACXBIWXMAAA7EAAAO
 xAGVKw4bAAAK0klEQVR4nLWbeVwURxbHGwZQyDAwinIoRqNivNYLNaCurroqooiG
@@ -307,7 +307,7 @@ KzQpaAAAAABJRU5ErkJggg=="/>
 <path transform="matrix(1,0,0,-1,0,595.276)" d="M15.052 396.87H39.581V433.623H15.052Z"/>
 </clipPath>
 <mask id="mask_35">
-<g transform="matrix(.2381542,0,0,.23865745,15.051514,161.6522)">
+<g transform="matrix(.2381542,0,0,.23865745,15.051392,161.6522)">
 <use xlink:href="#image_26" x="0" y="0" width="103" height="154"/>
 </g>
 </mask>
@@ -1041,7 +1041,7 @@ msfRxZ+d3Oaul/8PhTiMgT6lrcQAAAAASUVORK5CYII="/>
 <use data-text="r" xlink:href="#font_5_43" transform="matrix(9,0,0,-9,99.42591,458.85835)" fill="#231f20"/>
 <g clip-path="url(#clip_24)">
 <g mask="url(#mask_25)">
-<g transform="matrix(.2381542,0,0,.23865745,18.599366,440.26087)">
+<g transform="matrix(.2381542,0,0,.23865745,18.598999,440.26087)">
 <image id="image_27" width="103" height="154" xlink:href="data:image/png;base64,
 iVBORw0KGgoAAAANSUhEUgAAAGcAAACaCAIAAAA7L8FpAAAACXBIWXMAAA7EAAAO
 xAGVKw4bAAAnnElEQVR4nNV9d3Rb15kn88fszJnZs7OzM5tkT2YmxY7cJLGTaK+i
@@ -2119,7 +2119,7 @@ q8pksiplXkFpSnoWwuEhuTnHM4f/D+BGa1Yc/RSOAAAAAElFTkSuQmCC"/>
 </g>
 <g clip-path="url(#clip_34)">
 <g mask="url(#mask_35)">
-<g transform="matrix(.2381542,0,0,.23865745,15.051514,161.6522)">
+<g transform="matrix(.2381542,0,0,.23865745,15.051392,161.6522)">
 <use xlink:href="#image_27" x="0" y="0" width="103" height="154"/>
 </g>
 </g>
